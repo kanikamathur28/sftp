@@ -1,0 +1,6 @@
+Sample File for SFTP demo.
+This file would be transferred from server to client using sftp.
+Writing some more dummy data.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcde
+

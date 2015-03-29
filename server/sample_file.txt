@@ -1,0 +1,3 @@
+Sample File for SFTP demo.
+This file would be transfered from server to client using sftp.
+
